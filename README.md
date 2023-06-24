@@ -1,4 +1,4 @@
-![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
+![MasterHead](https://web-dev-resources-gjwjfab.spheron.app/images/development.gif)
 <h1 align="center">Hi 👋, I'm Mayank Singh</h1>
 <h3 align="center">A passionate Web Developer & Blockchain enthusiast !!</h3>
 
