@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **MERN & Blockchain**
 
-- 💬 Ask me about **Web Development, Statistics**
+- 💬 Ask me about **Web Development, Android Development, Statistics**
 
 - 📫 How to reach me **mayank2mahi@gmail.com**
 
-- ⚡ Fun fact **-- I am a Funny Learner😊**
+- ⚡ Fun fact **-- I am a Funny & Creative Learner😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
