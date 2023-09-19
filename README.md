@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN & Blockchain**
 
-- 💬 Ask me about **Web Development, Android Development, Statistics**
+- 💬 Ask me about **Web Development, Blockchain Development, Cryptography, Statistics**
 
 - 📫 How to reach me **mayank2mahi@gmail.com**
 
