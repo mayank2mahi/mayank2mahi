@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/mayank2mahi" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="mayank2mahi" height="35" width="35" /></a>
 <a href="https://instagram.com/imayankmahi" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png" alt="imayankmahi" height="35" width="35" /></a>
 <a href="https://leetcode.com/u/mayank2mahi/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRFQOY55ILUfxAMD-QQE_nRFL7wSlIX_RJQ&s" alt="mayank2mahi" height="35" width="35" /></a>
-<a href="https://www.codechef.com/users/mayank2mahi" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="mayank2mahi" height="35" width="40" /></a>
+<a href="https://www.codechef.com/users/imayankmahi" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="mayank2mahi" height="35" width="40" /></a>
 <a href="https://codeforces.com/profile/mayank2mahi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="mayank2mahi" height="30" width="120" /></a>
 </p>
 
