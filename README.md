@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mayank2mahi@gmail.com**
 
-- ⚡ Fun fact **-- I am a Funny & Creative Learner😊**
+- ⚡ Fun fact **-- I am a Creative Learner😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
